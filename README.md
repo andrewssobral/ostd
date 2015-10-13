@@ -7,7 +7,7 @@ Online Stochastic Tensor Decomposition for Background Subtraction in Multispectr
 
 Citation
 --------
-If you use this code for your publications, please cite it as:
+If you use this code for your publications, please cite it as ([Online Reference](https://www.researchgate.net/publication/282770162_Online_Stochastic_Tensor_Decomposition_for_Background_Subtraction_in_Multispectral_Video_Sequences)):
 ```
 @inproceedings{ostd,
 author    = {Sobral, Andrews and Javed, Sajid and Ki Jung, Soon and Bouwmans, Thierry and Zahzah, El-hadi},
