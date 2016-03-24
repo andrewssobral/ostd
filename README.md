@@ -3,7 +3,7 @@ Last Page Update: **26/01/2016**
 # OSTD
 Online Stochastic Tensor Decomposition for Background Subtraction in Multispectral Video Sequences
 
-<p align="center"><img src="https://sites.google.com/site/andrewssobral/ostd_demo.png" /></p>
+<p align="center"><img src="https://sites.google.com/site/andrewssobral/OSTD_framework.png" style="width: 65%;" /></p>
 
 See also:
 
@@ -51,4 +51,4 @@ The source code is available only for academic/research purposes (non-commercial
 
 Problems or Questions
 ---------------------
-If you have any problems or questions, please contact the author: Andrews Sobral (andrewssobral@gmail.com)
+If you have any problems or questions, please contact the author: Andrews Sobral (andrewssobral at gmail dot com)
