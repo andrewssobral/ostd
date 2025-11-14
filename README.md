@@ -1,9 +1,11 @@
 [![View OSTD on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88743-ostd)
 
-Last Page Update: **26/01/2016**
+Last Update: **26/01/2016**
 
 # OSTD
 Online Stochastic Tensor Decomposition for Background Subtraction in Multispectral Video Sequences
+
+This repository implements **Online Stochastic Tensor Decomposition (OSTD)**, a MATLAB-based framework for real-time background subtraction in **multispectral and hyperspectral video sequences**. It addresses the challenges of high-dimensional streaming data by modeling videos as tensors and updating a low-rank background representation online using stochastic optimization. The method leverages the strong inter-band correlation of multispectral data to improve robustness while keeping computation tractable. The repo includes the main OSTD algorithm (`OSTD.m`), a demo, stochastic RPCA components, multispectral/hyperspectral sample data, and a Python tool for evaluating foreground detection, all intended for academic and research use.
 
 <p align="center"><img src="https://raw.githubusercontent.com/andrewssobral/ostd/master/doc/ostd_framework.png" width="65%" /></p>
 
