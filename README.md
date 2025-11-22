@@ -1,4 +1,4 @@
-[![View OSTD on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88743-ostd)
+[![View OSTD on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88743-ostd)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/andrewssobral/ostd)
 
 Last Update: **26/01/2016**
 
